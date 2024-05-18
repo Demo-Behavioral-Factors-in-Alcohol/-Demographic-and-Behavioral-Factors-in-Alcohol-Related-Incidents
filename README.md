@@ -13,25 +13,6 @@ The dataset includes the following columns:
 - **Education Level**: The highest level of education attained by the individual (High School, Bachelor's, Master's, Doctorate).
 - **Car Accidents**: Indicates whether the individual was involved in a car accident (Yes/No).
 - **Deaths by Alcohol**: Indicates whether the individual's death was related to alcohol (Yes/No).
-
-## Sample Data
-
-```plaintext
-| Age | Gender | Education Level | Car Accidents | Deaths by Alcohol |
-|-----|--------|-----------------|---------------|-------------------|
-| 25  | Male   | High School     | Yes           | No                |
-| 42  | Female | Bachelor's      | No            | Yes               |
-| 35  | Male   | Master's        | Yes           | Yes               |
-| 50  | Male   | Doctorate       | No            | No                |
-| 28  | Female | High School     | Yes           | No                |
-...
-
-
-
-
-
-
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -64,6 +45,27 @@ gender_alcohol_deaths.plot.pie(autopct='%1.1f%%', startangle=140)
 plt.title('Alcohol-Related Deaths by Gender')
 plt.ylabel('')
 plt.show()
+
+
+
+## Sample Data
+
+```plaintext
+| Age | Gender | Education Level | Car Accidents | Deaths by Alcohol |
+|-----|--------|-----------------|---------------|-------------------|
+| 25  | Male   | High School     | Yes           | No                |
+| 42  | Female | Bachelor's      | No            | Yes               |
+| 35  | Male   | Master's        | Yes           | Yes               |
+| 50  | Male   | Doctorate       | No            | No                |
+| 28  | Female | High School     | Yes           | No                |
+...
+
+
+
+
+
+
+
 
 
 
