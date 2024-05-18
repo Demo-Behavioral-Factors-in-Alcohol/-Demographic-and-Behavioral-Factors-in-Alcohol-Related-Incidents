@@ -15,16 +15,16 @@ href="Car%20Accidents%20and%20Deaths%20by%20Alcohol%20Dataset_files/filelist.xml
  <o:DocumentProperties>
   <o:Author>zhiar ali</o:Author>
   <o:LastAuthor>zhiar ali</o:LastAuthor>
-  <o:Revision>1</o:Revision>
-  <o:TotalTime>73</o:TotalTime>
-  <o:Created>2024-05-18T13:22:00Z</o:Created>
-  <o:LastSaved>2024-05-18T14:35:00Z</o:LastSaved>
-  <o:Pages>4</o:Pages>
-  <o:Words>532</o:Words>
-  <o:Characters>3037</o:Characters>
-  <o:Lines>25</o:Lines>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>107</o:TotalTime>
+  <o:Created>2024-05-18T15:09:00Z</o:Created>
+  <o:LastSaved>2024-05-18T15:09:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>560</o:Words>
+  <o:Characters>3197</o:Characters>
+  <o:Lines>26</o:Lines>
   <o:Paragraphs>7</o:Paragraphs>
-  <o:CharactersWithSpaces>3562</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>3750</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -845,10 +845,15 @@ span.hljs-literal
 span.hljs-builtin
 	{mso-style-name:hljs-built_in;
 	mso-style-unhide:no;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
-	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
 	mso-fareast-font-family:Calibri;
@@ -1021,8 +1026,8 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
 @list l2
-	{mso-list-id:373433642;
-	mso-list-template-ids:-462405600;}
+	{mso-list-id:357245864;
+	mso-list-template-ids:1414145516;}
 @list l2:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1096,8 +1101,8 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
 @list l3
-	{mso-list-id:453450279;
-	mso-list-template-ids:-343923670;}
+	{mso-list-id:373433642;
+	mso-list-template-ids:-462405600;}
 @list l3:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1171,8 +1176,16 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
 @list l4
-	{mso-list-id:949749533;
-	mso-list-template-ids:940192186;}
+	{mso-list-id:413667831;
+	mso-list-template-ids:-829505886;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 @list l4:level2
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1181,9 +1194,65 @@ div.WordSection1
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 @list l5
-	{mso-list-id:1664747042;
-	mso-list-template-ids:-823874754;}
+	{mso-list-id:453450279;
+	mso-list-template-ids:-343923670;}
 @list l5:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1257,8 +1326,8 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
 @list l6
-	{mso-list-id:1666781177;
-	mso-list-template-ids:-219276270;}
+	{mso-list-id:526872441;
+	mso-list-template-ids:1701453356;}
 @list l6:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1332,8 +1401,8 @@ div.WordSection1
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
 @list l7
-	{mso-list-id:1689478396;
-	mso-list-template-ids:-1209003434;}
+	{mso-list-id:900753360;
+	mso-list-template-ids:-929556064;}
 @list l7:level1
 	{mso-level-number-format:bullet;
 	mso-level-text:\F0B7;
@@ -1406,6 +1475,542 @@ div.WordSection1
 	text-indent:-.25in;
 	mso-ansi-font-size:10.0pt;
 	font-family:Symbol;}
+@list l8
+	{mso-list-id:949749533;
+	mso-list-template-ids:940192186;}
+@list l8:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l8:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9
+	{mso-list-id:1407068222;
+	mso-list-template-ids:122977730;}
+@list l9:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l9:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10
+	{mso-list-id:1664747042;
+	mso-list-template-ids:-823874754;}
+@list l10:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l10:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l10:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l10:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l10:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l10:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l10:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l10:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l10:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l11
+	{mso-list-id:1666781177;
+	mso-list-template-ids:-219276270;}
+@list l11:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l11:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l11:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l11:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l11:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l11:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l11:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l11:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l11:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l12
+	{mso-list-id:1689478396;
+	mso-list-template-ids:-1209003434;}
+@list l12:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l12:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l12:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l12:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l12:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l12:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l12:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l12:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l12:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l13
+	{mso-list-id:1747143425;
+	mso-list-template-ids:1408894602;}
+@list l13:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l13:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l13:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l13:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l13:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l13:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l13:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l13:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l13:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14
+	{mso-list-id:1957523120;
+	mso-list-template-ids:650645438;}
+@list l14:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l15
+	{mso-list-id:2053534011;
+	mso-list-template-ids:-1913214228;}
+@list l15:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l15:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l15:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l15:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l15:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l15:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l15:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l15:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l15:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
 ol
 	{margin-bottom:0in;}
 ul
@@ -1453,39 +2058,102 @@ ul
 <div style='mso-element:para-border-div;border:solid #E3E3E3 1.0pt;mso-border-alt:
 solid #E3E3E3 .25pt;padding:0in 0in 0in 0in;background:white'>
 
-<p class=MsoNormal style='margin-bottom:10.65pt;line-height:normal;mso-outline-level:
-1;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-mso-padding-alt:0in 0in 0in 0in'><b><span style='font-size:27.0pt;font-family:
-"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#0D0D0D;
-mso-font-kerning:18.0pt'>Car Accidents and Deaths by Alcohol Dataset<o:p></o:p></span></b></p>
+<h1 style='margin-top:0in;margin-right:0in;margin-bottom:10.65pt;margin-left:
+0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:
+0in;mso-padding-alt:0in 0in 0in 0in'><span style='font-size:36.0pt;font-family:
+"Segoe UI",sans-serif;color:#0D0D0D'>Car Accidents and Deaths by Alcohol
+Dataset<o:p></o:p></span></h1>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:2;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:18.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>Overview<o:p></o:p></span></b></p>
+<h2 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;margin:2rem 0px 1rem;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-size:26.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>Overview<o:p></o:p></span></h2>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:
-0in 0in 0in 0in'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>This dataset contains
-information about individuals involved in car accidents and deaths related to
-alcohol consumption. The data includes demographic details, education levels,
-and whether the individual was involved in a car accident or death by alcohol.
-The dataset aims to provide insights into the correlation between demographic
-factors and the incidence of alcohol-related car accidents and fatalities.<o:p></o:p></span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:
+0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:
+0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-family:"Segoe UI",sans-serif;
+color:#0D0D0D'>This dataset contains information about individuals involved in
+car accidents and deaths related to alcohol consumption. The data includes
+demographic details, education levels, and whether the individual was involved
+in a car accident or death by alcohol. The dataset aims to provide insights
+into the correlation between demographic factors and the incidence of
+alcohol-related car accidents and fatalities.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:2;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:18.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>Data Description<o:p></o:p></span></b></p>
+<h2 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;margin:2rem 0px 1rem;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-size:26.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>Data Description<o:p></o:p></span></h2>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:
-0in 0in 0in 0in'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>The dataset contains
-the following columns:<o:p></o:p></span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:
+0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:
+0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-family:"Segoe UI",sans-serif;
+color:#0D0D0D'>The dataset contains the following columns:<o:p></o:p></span></p>
 
 </div>
 
@@ -1493,45 +2161,221 @@ the following columns:<o:p></o:p></span></p>
 solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 .25in;margin-right:0in'>
 
-<ul style='margin-top:0in' type=disc>
+<ul style='margin-top:0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+ --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+ --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+ --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+ --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+ --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+ --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+ --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+ --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+ --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+ --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+ --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+ --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+ --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+ --tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+ font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+ white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+ text-decoration-color: initial;word-spacing:0px' type=disc>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list .5in;background:
+     line-height:normal;mso-list:l2 level1 lfo9;tab-stops:list .5in;background:
      white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Age</span></b><span
-     style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-     "Times New Roman"'>: The age of the individual.<o:p></o:p></span></li>
+     mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;--tw-border-spacing-x: 0;
+     --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;
+     --tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;
+     --tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+     --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+     --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Age</span></strong><span style='font-family:"Segoe UI",sans-serif'>:
+     The age of the individual.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list .5in;background:
+     line-height:normal;mso-list:l2 level1 lfo9;tab-stops:list .5in;background:
      white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Gender</span></b><span
-     style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-     "Times New Roman"'>: The gender of the individual (Male/Female).<o:p></o:p></span></li>
+     mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;--tw-border-spacing-x: 0;
+     --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;
+     --tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;
+     --tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+     --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+     --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Gender</span></strong><span style='font-family:"Segoe UI",sans-serif'>:
+     The gender of the individual (Male/Female).<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list .5in;background:
+     line-height:normal;mso-list:l2 level1 lfo9;tab-stops:list .5in;background:
      white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Education
-     Level</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'>: The highest level of
-     education attained by the individual.<o:p></o:p></span></li>
+     mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;--tw-border-spacing-x: 0;
+     --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;
+     --tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;
+     --tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+     --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+     --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Education Level</span></strong><span style='font-family:"Segoe UI",sans-serif'>:
+     The highest level of education attained by the individual.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list .5in;background:
+     line-height:normal;mso-list:l2 level1 lfo9;tab-stops:list .5in;background:
      white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Car
-     Accidents</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'>: A binary indicator (Yes/No)
-     showing whether the individual has been involved in a car accident.<o:p></o:p></span></li>
+     mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;--tw-border-spacing-x: 0;
+     --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;
+     --tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;
+     --tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+     --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+     --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Car Accidents</span></strong><span style='font-family:"Segoe UI",sans-serif'>:
+     A binary indicator (Yes/No) showing whether the individual has been
+     involved in a car accident.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l0 level1 lfo1;tab-stops:list .5in;background:
+     line-height:normal;mso-list:l2 level1 lfo9;tab-stops:list .5in;background:
      white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Deaths
-     by Alcohol</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'>: A binary indicator (Yes/No)
-     showing whether the individual has died due to alcohol-related incidents.<o:p></o:p></span></li>
+     mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;--tw-border-spacing-x: 0;
+     --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;
+     --tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;
+     --tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+     --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+     --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Deaths by Alcohol</span></strong><span style='font-family:"Segoe UI",sans-serif'>:
+     A binary indicator (Yes/No) showing whether the individual has died due to
+     alcohol-related incidents.<o:p></o:p></span></li>
 </ul>
 
 </div>
@@ -1539,11 +2383,9 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 <div style='mso-element:para-border-div;border:solid #E3E3E3 1.0pt;mso-border-alt:
 solid #E3E3E3 .25pt;padding:0in 0in 0in 0in;background:white'>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:15.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>Column Details<o:p></o:p></span></b></p>
+<h2 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in'><span style='font-size:26.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>Column Details<o:p></o:p></span></h2>
 
 </div>
 
@@ -1551,46 +2393,227 @@ style='font-size:15.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-famil
 solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 .25in;margin-right:0in'>
 
-<ul style='margin-top:0in' type=disc>
+<ul style='margin-top:0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+ --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+ --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+ --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+ --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+ --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+ --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+ --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+ --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+ --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+ --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+ --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+ --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+ --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+ --tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+ font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+ white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+ text-decoration-color: initial;word-spacing:0px' type=disc>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l2 level1 lfo2;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Age</span></b><span
-     style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-     "Times New Roman"'>: Numeric value representing the age of the individual.<o:p></o:p></span></li>
+     line-height:normal;mso-list:l4 level1 lfo10;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Age</span></strong><span style='font-family:"Segoe UI",sans-serif'>:
+     Numeric value representing the age of the individual.</span><span
+     style='font-size:12.0pt;font-family:"Segoe UI",sans-serif'><o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l2 level1 lfo2;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Gender</span></b><span
-     style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-     "Times New Roman"'>: Categorical value with possible entries: Male,
-     Female.<o:p></o:p></span></li>
+     line-height:normal;mso-list:l4 level1 lfo10;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Gender</span></strong><span style='font-family:"Segoe UI",sans-serif'>:
+     Categorical value with possible entries: Male, Female.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l2 level1 lfo2;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Education
-     Level</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'>: Categorical value with
-     possible entries: High School, College, Graduate.<o:p></o:p></span></li>
+     line-height:normal;mso-list:l4 level1 lfo10;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Education Level</span></strong><span style='font-family:"Segoe UI",sans-serif'>:
+     Categorical value with possible entries: High School, College, Graduate.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l2 level1 lfo2;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Car
-     Accidents</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'>: Binary value indicating car
-     accident involvement: Yes (involved), No (not involved).<o:p></o:p></span></li>
+     line-height:normal;mso-list:l4 level1 lfo10;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Car Accidents</span></strong><span style='font-family:"Segoe UI",sans-serif'>:
+     Binary value indicating car accident involvement: Yes (involved), No (not
+     involved).<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l2 level1 lfo2;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Deaths
-     by Alcohol</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'>: Binary value indicating
-     alcohol-related death: Yes (deceased), No (not deceased).<o:p></o:p></span></li>
+     line-height:normal;mso-list:l4 level1 lfo10;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Deaths by Alcohol</span></strong><span style='font-family:"Segoe UI",sans-serif'>:
+     Binary value indicating alcohol-related death: Yes (deceased), No (not
+     deceased).<o:p></o:p></span></li>
 </ul>
 
 </div>
@@ -1598,249 +2621,723 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 <div style='mso-element:para-border-div;border:solid #E3E3E3 1.0pt;mso-border-alt:
 solid #E3E3E3 .25pt;padding:0in 0in 0in 0in;background:white'>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:15.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>Sample Data<o:p></o:p></span></b></p>
+<h2 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in'><span style='font-size:26.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>Sample Data<o:p></o:p></span></h2>
 
 </div>
 
 <table class=MsoNormalTable border=1 cellspacing=3 cellpadding=0 width=712
  style='width:534.0pt;mso-cellspacing:1.5pt;background:white;border:solid windowtext 1.0pt;
- mso-border-alt:solid windowtext .25pt;mso-yfti-tbllook:1184'>
- <thead>
-  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+ mso-border-alt:solid windowtext .25pt;mso-yfti-tbllook:1184;border-color:inherit;
+ border-image: initial;box-sizing: border-box;--tw-border-spacing-x: 0px;
+ --tw-border-spacing-y: 0px;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+ --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+ --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+ --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+ --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+ --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+ --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+ --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+ --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+ --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+ --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+ --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+ --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+ --tw-contain-paint: ;--tw-contain-style: ;margin-bottom:0.25rem;margin-top:
+ 0.25rem;border-spacing: var(--tw-border-spacing-x) var(--tw-border-spacing-y);
+ font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
+ widows: 2;-webkit-text-stroke-width: 0px;white-space:pre-wrap;text-decoration-thickness: initial;
+ text-decoration-style: initial;text-decoration-color: initial;word-spacing:
+ 0px'>
+ <thead style='border-bottom-color:var(--tw-prose-th-borders);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '>
+  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;box-sizing: border-box;
+   --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+   --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;
+   --tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+   --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+   --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+   --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+   --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+   --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+   --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+   --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+   --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+   --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+   --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+   --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '>
    <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .75pt;
    mso-border-right-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt'>
-   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-   line-height:normal'><b><span style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;
-   mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>Age<o:p></o:p></span></b></p>
+   <p class=MsoNormal align=center style='text-align:center'><b><span
+   style='font-size:10.5pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+   color:#0D0D0D'>Age<o:p></o:p></span></b></p>
    </td>
    <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .75pt;
    mso-border-right-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt'>
-   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-   line-height:normal'><b><span style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;
-   mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>Gender<o:p></o:p></span></b></p>
+   <p class=MsoNormal align=center style='text-align:center'><b><span
+   style='font-size:10.5pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+   color:#0D0D0D'>Gender<o:p></o:p></span></b></p>
    </td>
    <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .75pt;
    mso-border-right-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt'>
-   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-   line-height:normal'><b><span style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;
-   mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>Education Level<o:p></o:p></span></b></p>
+   <p class=MsoNormal align=center style='text-align:center'><b><span
+   style='font-size:10.5pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+   color:#0D0D0D'>Education Level<o:p></o:p></span></b></p>
    </td>
    <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .75pt;
    mso-border-right-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt'>
-   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-   line-height:normal'><b><span style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;
-   mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>Car Accidents<o:p></o:p></span></b></p>
+   <p class=MsoNormal align=center style='text-align:center'><b><span
+   style='font-size:10.5pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+   color:#0D0D0D'>Car Accidents<o:p></o:p></span></b></p>
    </td>
    <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .75pt;
    padding:.75pt .75pt .75pt .75pt'>
-   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-   line-height:normal'><b><span style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;
-   mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>Deaths by Alcohol<o:p></o:p></span></b></p>
+   <p class=MsoNormal align=center style='text-align:center'><b><span
+   style='font-size:10.5pt;line-height:107%;font-family:"Segoe UI",sans-serif;
+   color:#0D0D0D'>Deaths by Alcohol<o:p></o:p></span></b></p>
    </td>
   </tr>
  </thead>
- <tr style='mso-yfti-irow:1'>
+ <tr style='mso-yfti-irow:1;border-bottom-color:var(--tw-prose-td-borders);
+  border-image: initial;box-sizing: border-box;--tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+  --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+  --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+  --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+  --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>25<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>25<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>Male<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>Male<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>High School<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>High School<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>Yes<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>Yes<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .75pt;
-  mso-border-top-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>No<o:p></o:p></span></p>
+  mso-border-top-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt;
+  border-color:var(--border-medium);border-image: initial;box-sizing: border-box;
+  --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+  --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;
+  --tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+  --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+  --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>No<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:2'>
+ <tr style='mso-yfti-irow:2;border-bottom-color:var(--tw-prose-td-borders);
+  border-image: initial;box-sizing: border-box;--tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+  --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+  --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+  --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+  --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>42<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>42<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>Female<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>Female<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>College<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>College<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>No<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>No<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .75pt;
-  mso-border-top-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>No<o:p></o:p></span></p>
+  mso-border-top-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt;
+  border-color:var(--border-medium);border-image: initial;box-sizing: border-box;
+  --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+  --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;
+  --tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+  --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+  --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>No<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:3'>
+ <tr style='mso-yfti-irow:3;border-bottom-color:var(--tw-prose-td-borders);
+  border-image: initial;box-sizing: border-box;--tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+  --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+  --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+  --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+  --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>35<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>35<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>Male<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>Male<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>Graduate<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>Graduate<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>Yes<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>Yes<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .75pt;
-  mso-border-top-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>Yes<o:p></o:p></span></p>
+  mso-border-top-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt;
+  border-color:var(--border-medium);border-image: initial;box-sizing: border-box;
+  --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+  --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;
+  --tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+  --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+  --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>Yes<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:4'>
+ <tr style='mso-yfti-irow:4;border-bottom-color:var(--tw-prose-td-borders);
+  border-image: initial;box-sizing: border-box;--tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+  --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+  --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+  --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+  --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>50<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>50<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>Female<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>Female<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>High School<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>High School<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>No<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>No<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .75pt;
-  mso-border-top-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>No<o:p></o:p></span></p>
+  mso-border-top-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt;
+  border-color:var(--border-medium);border-image: initial;box-sizing: border-box;
+  --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+  --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;
+  --tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+  --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+  --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>No<o:p></o:p></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes;border-bottom-color:var(--tw-prose-td-borders);
+  border-image: initial;box-sizing: border-box;--tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+  --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+  --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+  --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+  --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>28<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem;
+  border-bottom-left-radius: 0.375rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>28<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>Male<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>Male<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>College<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>College<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-top-alt:
   .25pt;mso-border-left-alt:.75pt;mso-border-bottom-alt:.75pt;mso-border-right-alt:
   .25pt;mso-border-color-alt:windowtext;mso-border-style-alt:solid;padding:
-  .75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>Yes<o:p></o:p></span></p>
+  .75pt .75pt .75pt .75pt;border-color:var(--border-medium);border-image: initial;
+  box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+  --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+  --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+  --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+  --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+  --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;
+  --tw-ring-inset: ;--tw-ring-offset-width: 0px;--tw-ring-offset-color: #fff;
+  --tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>Yes<o:p></o:p></span></p>
   </td>
   <td valign=bottom style='border:solid windowtext 1.0pt;mso-border-alt:solid windowtext .75pt;
-  mso-border-top-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  style='font-size:10.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:#0D0D0D'>No<o:p></o:p></span></p>
+  mso-border-top-alt:solid windowtext .25pt;padding:.75pt .75pt .75pt .75pt;
+  border-color:var(--border-medium);border-image: initial;box-sizing: border-box;
+  --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+  --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;
+  --tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+  --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+  --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+  --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+  --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+  --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+  --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+  --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+  --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+  --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;padding:0.25rem 0.75rem;
+  border-bottom-right-radius: 0.375rem'>
+  <p class=MsoNormal><span style='font-size:10.5pt;line-height:107%;font-family:
+  "Segoe UI",sans-serif;color:#0D0D0D'>No<o:p></o:p></span></p>
   </td>
  </tr>
 </table>
@@ -1848,17 +3345,48 @@ style='font-size:15.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-famil
 <div style='mso-element:para-border-div;border:solid #E3E3E3 1.0pt;mso-border-alt:
 solid #E3E3E3 .25pt;padding:0in 0in 0in 0in;background:white'>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:2;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:18.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>Objectives<o:p></o:p></span></b></p>
+<h2 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;margin:2rem 0px 1rem;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-size:26.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>Objectives<o:p></o:p></span></h2>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:
-0in 0in 0in 0in'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>The main objectives of
-analyzing this dataset are:<o:p></o:p></span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:
+0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:
+0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-family:"Segoe UI",sans-serif;
+color:#0D0D0D'>The main objectives of analyzing this dataset are:<o:p></o:p></span></p>
 
 </div>
 
@@ -1866,14 +3394,63 @@ analyzing this dataset are:<o:p></o:p></span></p>
 solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 .25in;margin-right:0in'>
 
-<ol style='margin-top:0in' start=1 type=1>
+<ol style='margin-top:0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+ --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+ --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+ --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+ --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+ --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+ --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+ --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+ --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+ --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+ --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+ --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+ --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+ --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+ --tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+ font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+ white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+ text-decoration-color: initial;word-spacing:0px' start=1 type=1>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:6.0pt;margin-left:.25in;
-     line-height:normal;mso-list:l4 level1 lfo3;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Demographic
-     Analysis</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'>:<o:p></o:p></span></li>
+     line-height:normal;mso-list:l9 level1 lfo11;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Demographic Analysis</span></strong><span style='font-family:"Segoe UI",sans-serif'>:<o:p></o:p></span></li>
 </ol>
 
 </div>
@@ -1885,10 +3462,26 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 <ol style='margin-top:0in' start=1 type=1>
  <ul style='margin-top:0in' type=disc>
   <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-      margin-left:-.25in;line-height:normal;mso-list:l4 level2 lfo3;tab-stops:
-      list 1.0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-      padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-      12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Determine
+      margin-left:-.25in;line-height:normal;mso-list:l9 level2 lfo11;
+      tab-stops:list 1.0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+      padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+      --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+      --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+      --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+      --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+      --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+      --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+      --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+      --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+      --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+      --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;
+      --tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;
+      --tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;
+      --tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;
+      --tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;
+      --tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;
+      --tw-contain-style: '><span style='font-family:"Segoe UI",sans-serif'>Determine
       the distribution of individuals based on age, gender, and education
       level.<o:p></o:p></span></li>
  </ul>
@@ -1902,12 +3495,44 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 
 <ol style='margin-top:0in' start=2 type=1>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:6.0pt;margin-left:.25in;
-     line-height:normal;mso-list:l4 level1 lfo3;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Incident
-     Analysis</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'>:<o:p></o:p></span></li>
+     line-height:normal;mso-list:l9 level1 lfo11;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Incident Analysis</span></strong><span style='font-family:"Segoe UI",sans-serif'>:<o:p></o:p></span></li>
 </ol>
 
 </div>
@@ -1919,10 +3544,26 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 <ol style='margin-top:0in' start=2 type=1>
  <ul style='margin-top:0in' type=disc>
   <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-      margin-left:-.25in;line-height:normal;mso-list:l4 level2 lfo3;tab-stops:
-      list 1.0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-      padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-      12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Calculate
+      margin-left:-.25in;line-height:normal;mso-list:l9 level2 lfo11;
+      tab-stops:list 1.0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+      padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+      --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+      --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+      --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+      --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+      --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+      --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+      --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+      --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+      --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+      --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;
+      --tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;
+      --tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;
+      --tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;
+      --tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;
+      --tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;
+      --tw-contain-style: '><span style='font-family:"Segoe UI",sans-serif'>Calculate
       the number of car accidents and deaths by alcohol in the dataset.<o:p></o:p></span></li>
  </ul>
 </ol>
@@ -1935,12 +3576,44 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 
 <ol style='margin-top:0in' start=3 type=1>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:6.0pt;margin-left:.25in;
-     line-height:normal;mso-list:l4 level1 lfo3;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Correlation
-     Analysis</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'>:<o:p></o:p></span></li>
+     line-height:normal;mso-list:l9 level1 lfo11;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Correlation Analysis</span></strong><span style='font-family:"Segoe UI",sans-serif'>:<o:p></o:p></span></li>
 </ol>
 
 </div>
@@ -1952,10 +3625,26 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 <ol style='margin-top:0in' start=3 type=1>
  <ul style='margin-top:0in' type=disc>
   <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-      margin-left:-.25in;line-height:normal;mso-list:l4 level2 lfo3;tab-stops:
-      list 1.0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-      padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-      12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Investigate
+      margin-left:-.25in;line-height:normal;mso-list:l9 level2 lfo11;
+      tab-stops:list 1.0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+      padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+      --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+      --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+      --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+      --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+      --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+      --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+      --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+      --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+      --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+      --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;
+      --tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;
+      --tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;
+      --tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;
+      --tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;
+      --tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;
+      --tw-contain-style: '><span style='font-family:"Segoe UI",sans-serif'>Investigate
       the correlation between demographic factors (age, gender, education
       level) and the likelihood of being involved in car accidents or
       alcohol-related deaths.<o:p></o:p></span></li>
@@ -1970,12 +3659,44 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 
 <ol style='margin-top:0in' start=4 type=1>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:6.0pt;margin-left:.25in;
-     line-height:normal;mso-list:l4 level1 lfo3;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Risk
-     Assessment</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'>:<o:p></o:p></span></li>
+     line-height:normal;mso-list:l9 level1 lfo11;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Risk Assessment</span></strong><span style='font-family:"Segoe UI",sans-serif'>:<o:p></o:p></span></li>
 </ol>
 
 </div>
@@ -1987,10 +3708,26 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 <ol style='margin-top:0in' start=4 type=1>
  <ul style='margin-top:0in' type=disc>
   <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-      margin-left:-.25in;line-height:normal;mso-list:l4 level2 lfo3;tab-stops:
-      list 1.0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-      padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-      12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Assess
+      margin-left:-.25in;line-height:normal;mso-list:l9 level2 lfo11;
+      tab-stops:list 1.0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+      padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+      --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+      --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+      --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+      --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+      --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+      --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+      --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+      --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+      --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+      --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;
+      --tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;
+      --tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;
+      --tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;
+      --tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;
+      --tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;
+      --tw-contain-style: '><span style='font-family:"Segoe UI",sans-serif'>Assess
       the risk factors associated with car accidents and alcohol-related
       deaths.<o:p></o:p></span></li>
  </ul>
@@ -2004,12 +3741,44 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 
 <ol style='margin-top:0in' start=5 type=1>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:6.0pt;margin-left:.25in;
-     line-height:normal;mso-list:l4 level1 lfo3;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><b><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Policy
-     Implications</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'>:<o:p></o:p></span></li>
+     line-height:normal;mso-list:l9 level1 lfo11;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Policy Implications</span></strong><span style='font-family:"Segoe UI",sans-serif'>:<o:p></o:p></span></li>
 </ol>
 
 </div>
@@ -2021,10 +3790,26 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 <ol style='margin-top:0in' start=5 type=1>
  <ul style='margin-top:0in' type=disc>
   <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-      margin-left:-.25in;line-height:normal;mso-list:l4 level2 lfo3;tab-stops:
-      list 1.0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-      padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-      12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Provide
+      margin-left:-.25in;line-height:normal;mso-list:l9 level2 lfo11;
+      tab-stops:list 1.0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+      padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+      --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+      --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+      --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+      --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+      --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+      --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+      --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+      --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+      --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+      --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+      --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;
+      --tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;
+      --tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;
+      --tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;
+      --tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;
+      --tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;
+      --tw-contain-style: '><span style='font-family:"Segoe UI",sans-serif'>Provide
       insights for policymakers to design targeted interventions to reduce car
       accidents and alcohol-related fatalities.<o:p></o:p></span></li>
  </ul>
@@ -2035,23 +3820,69 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 <div style='mso-element:para-border-div;border:solid #E3E3E3 1.0pt;mso-border-alt:
 solid #E3E3E3 .25pt;padding:0in 0in 0in 0in;background:white'>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:2;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:18.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>Analytical Approach<o:p></o:p></span></b></p>
+<h2 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;margin:2rem 0px 1rem;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-size:26.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>Analytical Approach<o:p></o:p></span></h2>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:15.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>1. Data Cleaning<o:p></o:p></span></b></p>
+<h3 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;margin:1rem 0px 0.5rem;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-size:16.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>1. Data Cleaning<o:p></o:p></span></h3>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:
-0in 0in 0in 0in'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>Before performing any
-analysis, ensure the data is clean:<o:p></o:p></span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:
+0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:
+0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-family:"Segoe UI",sans-serif;
+color:#0D0D0D'>Before performing any analysis, ensure the data is clean:<o:p></o:p></span></p>
 
 </div>
 
@@ -2059,25 +3890,90 @@ analysis, ensure the data is clean:<o:p></o:p></span></p>
 solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 .25in;margin-right:0in'>
 
-<ul style='margin-top:0in' type=disc>
+<ul style='margin-top:0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+ --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+ --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+ --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+ --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+ --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+ --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+ --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+ --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+ --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+ --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+ --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+ --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+ --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+ --tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+ font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+ white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+ text-decoration-color: initial;word-spacing:0px' type=disc>
  <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-     margin-left:.25in;line-height:normal;mso-list:l1 level1 lfo4;tab-stops:
+     margin-left:.25in;line-height:normal;mso-list:l15 level1 lfo12;tab-stops:
      list .5in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-     12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Check
-     for and handle missing values.<o:p></o:p></span></li>
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><span
+     style='font-family:"Segoe UI",sans-serif'>Check for and handle missing
+     values.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-     margin-left:.25in;line-height:normal;mso-list:l1 level1 lfo4;tab-stops:
+     margin-left:.25in;line-height:normal;mso-list:l15 level1 lfo12;tab-stops:
      list .5in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-     12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Ensure
-     data types are appropriate for each column.<o:p></o:p></span></li>
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><span
+     style='font-family:"Segoe UI",sans-serif'>Ensure data types are
+     appropriate for each column.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-     margin-left:.25in;line-height:normal;mso-list:l1 level1 lfo4;tab-stops:
+     margin-left:.25in;line-height:normal;mso-list:l15 level1 lfo12;tab-stops:
      list .5in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-     12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Standardize
-     categorical values (e.g., ensure gender values are consistently labeled).<o:p></o:p></span></li>
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><span
+     style='font-family:"Segoe UI",sans-serif'>Standardize categorical values
+     (e.g., ensure gender values are consistently labeled).<o:p></o:p></span></li>
 </ul>
 
 </div>
@@ -2085,17 +3981,49 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 <div style='mso-element:para-border-div;border:solid #E3E3E3 1.0pt;mso-border-alt:
 solid #E3E3E3 .25pt;padding:0in 0in 0in 0in;background:white'>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:15.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>2. Descriptive Statistics<o:p></o:p></span></b></p>
+<h3 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;margin:1rem 0px 0.5rem;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-size:16.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>2. Descriptive Statistics<o:p></o:p></span></h3>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:
-0in 0in 0in 0in'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>Calculate basic
-statistics to understand the distribution of data:<o:p></o:p></span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:
+0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:
+0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-family:"Segoe UI",sans-serif;
+color:#0D0D0D'>Calculate basic statistics to understand the distribution of
+data:<o:p></o:p></span></p>
 
 </div>
 
@@ -2103,40 +4031,190 @@ statistics to understand the distribution of data:<o:p></o:p></span></p>
 solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 .25in;margin-right:0in'>
 
-<ul style='margin-top:0in' type=disc>
+<ul style='margin-top:0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+ --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+ --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+ --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+ --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+ --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+ --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+ --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+ --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+ --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+ --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+ --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+ --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+ --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+ --tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+ font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+ white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+ text-decoration-color: initial;word-spacing:0px' type=disc>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l7 level1 lfo5;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Mean,
-     median, mode, and standard deviation for the </span><b><span
-     style='font-size:10.5pt;font-family:"Courier New";mso-fareast-font-family:
-     "Times New Roman"'>Age</span></b><span style='font-size:12.0pt;font-family:
-     "Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'> column.<o:p></o:p></span></li>
+     line-height:normal;mso-list:l13 level1 lfo13;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><span
+     style='font-family:"Segoe UI",sans-serif'>Mean, median, mode, and standard
+     deviation for the </span><code style='box-sizing: border-box;--tw-border-spacing-x: 0;
+     --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;
+     --tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;
+     --tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+     --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+     --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     font-feature-settings: normal;font-variation-settings: normal;color:var(--tw-prose-code)'><b><span
+     style='font-size:10.5pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+     minor-latin;border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in'>Age</span></b></code><span style='font-family:"Segoe UI",sans-serif'>
+     column.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l7 level1 lfo5;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Frequency
-     counts for </span><b><span style='font-size:10.5pt;font-family:"Courier New";
-     mso-fareast-font-family:"Times New Roman"'>Gender</span></b><span
-     style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-     "Times New Roman"'> and </span><b><span style='font-size:10.5pt;
-     font-family:"Courier New";mso-fareast-font-family:"Times New Roman"'>Education
-     Level</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'> columns.<o:p></o:p></span></li>
+     line-height:normal;mso-list:l13 level1 lfo13;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><span
+     style='font-family:"Segoe UI",sans-serif'>Frequency counts for </span><code
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     font-feature-settings: normal;font-variation-settings: normal;color:var(--tw-prose-code)'><b><span
+     style='font-size:10.5pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+     minor-latin;border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in'>Gender</span></b></code><span style='font-family:"Segoe UI",sans-serif'>
+     and </span><code style='box-sizing: border-box;--tw-border-spacing-x: 0;
+     --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;
+     --tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;
+     --tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+     --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+     --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     font-feature-settings: normal;font-variation-settings: normal;color:var(--tw-prose-code)'><b><span
+     style='font-size:10.5pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+     minor-latin;border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in'>Education Level</span></b></code><span style='font-family:
+     "Segoe UI",sans-serif'> columns.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
-     line-height:normal;mso-list:l7 level1 lfo5;tab-stops:list .5in;background:
-     white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;
-     mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:12.0pt;
-     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Count
-     of </span><b><span style='font-size:10.5pt;font-family:"Courier New";
-     mso-fareast-font-family:"Times New Roman"'>Car Accidents</span></b><span
-     style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-     "Times New Roman"'> and </span><b><span style='font-size:10.5pt;
-     font-family:"Courier New";mso-fareast-font-family:"Times New Roman"'>Deaths
-     by Alcohol</span></b><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-     mso-fareast-font-family:"Times New Roman"'>.<o:p></o:p></span></li>
+     line-height:normal;mso-list:l13 level1 lfo13;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><span
+     style='font-family:"Segoe UI",sans-serif'>Count of </span><code
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     font-feature-settings: normal;font-variation-settings: normal;color:var(--tw-prose-code)'><b><span
+     style='font-size:10.5pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+     minor-latin;border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in'>Car Accidents</span></b></code><span style='font-family:"Segoe UI",sans-serif'>
+     and </span><code style='box-sizing: border-box;--tw-border-spacing-x: 0;
+     --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;
+     --tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;
+     --tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+     --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+     --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     font-feature-settings: normal;font-variation-settings: normal;color:var(--tw-prose-code)'><b><span
+     style='font-size:10.5pt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+     minor-latin;border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in'>Deaths by Alcohol</span></b></code><span style='font-family:
+     "Segoe UI",sans-serif'>.<o:p></o:p></span></li>
 </ul>
 
 </div>
@@ -2144,17 +4222,48 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 <div style='mso-element:para-border-div;border:solid #E3E3E3 1.0pt;mso-border-alt:
 solid #E3E3E3 .25pt;padding:0in 0in 0in 0in;background:white'>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:15.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>3. Correlation Analysis<o:p></o:p></span></b></p>
+<h3 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;margin:1rem 0px 0.5rem;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-size:16.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>3. Correlation Analysis<o:p></o:p></span></h3>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:
-0in 0in 0in 0in'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>Use statistical
-methods to analyze correlations:<o:p></o:p></span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:
+0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:
+0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-family:"Segoe UI",sans-serif;
+color:#0D0D0D'>Use statistical methods to analyze correlations:<o:p></o:p></span></p>
 
 </div>
 
@@ -2162,19 +4271,68 @@ methods to analyze correlations:<o:p></o:p></span></p>
 solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 .25in;margin-right:0in'>
 
-<ul style='margin-top:0in' type=disc>
+<ul style='margin-top:0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+ --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+ --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+ --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+ --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+ --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+ --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+ --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+ --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+ --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+ --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+ --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+ --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+ --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+ --tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+ font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+ white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+ text-decoration-color: initial;word-spacing:0px' type=disc>
  <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-     margin-left:.25in;line-height:normal;mso-list:l6 level1 lfo6;tab-stops:
+     margin-left:.25in;line-height:normal;mso-list:l6 level1 lfo14;tab-stops:
      list .5in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-     12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Chi-square
-     tests for categorical data.<o:p></o:p></span></li>
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><span
+     style='font-family:"Segoe UI",sans-serif'>Chi-square tests for categorical
+     data.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-     margin-left:.25in;line-height:normal;mso-list:l6 level1 lfo6;tab-stops:
+     margin-left:.25in;line-height:normal;mso-list:l6 level1 lfo14;tab-stops:
      list .5in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-     12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Pearson
-     correlation coefficient for numerical data.<o:p></o:p></span></li>
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><span
+     style='font-family:"Segoe UI",sans-serif'>Pearson correlation coefficient
+     for numerical data.<o:p></o:p></span></li>
 </ul>
 
 </div>
@@ -2182,17 +4340,48 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 <div style='mso-element:para-border-div;border:solid #E3E3E3 1.0pt;mso-border-alt:
 solid #E3E3E3 .25pt;padding:0in 0in 0in 0in;background:white'>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:3;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:15.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>4. Visualization<o:p></o:p></span></b></p>
+<h3 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;margin:1rem 0px 0.5rem;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-size:16.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>4. Visualization<o:p></o:p></span></h3>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:
-0in 0in 0in 0in'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>Visualize the data to
-uncover patterns and trends:<o:p></o:p></span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:
+0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:
+0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-family:"Segoe UI",sans-serif;
+color:#0D0D0D'>Visualize the data to uncover patterns and trends:<o:p></o:p></span></p>
 
 </div>
 
@@ -2200,25 +4389,90 @@ uncover patterns and trends:<o:p></o:p></span></p>
 solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 .25in;margin-right:0in'>
 
-<ul style='margin-top:0in' type=disc>
+<ul style='margin-top:0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+ --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+ --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+ --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+ --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+ --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+ --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+ --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+ --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+ --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+ --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+ --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+ --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+ --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+ --tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+ font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+ white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+ text-decoration-color: initial;word-spacing:0px' type=disc>
  <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-     margin-left:.25in;line-height:normal;mso-list:l3 level1 lfo7;tab-stops:
+     margin-left:.25in;line-height:normal;mso-list:l14 level1 lfo15;tab-stops:
      list .5in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-     12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Bar
-     charts for gender and education level distributions.<o:p></o:p></span></li>
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><span
+     style='font-family:"Segoe UI",sans-serif'>Bar charts for gender and
+     education level distributions.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-     margin-left:.25in;line-height:normal;mso-list:l3 level1 lfo7;tab-stops:
+     margin-left:.25in;line-height:normal;mso-list:l14 level1 lfo15;tab-stops:
      list .5in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-     12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Pie
-     charts for the proportion of car accidents and deaths by alcohol.<o:p></o:p></span></li>
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><span
+     style='font-family:"Segoe UI",sans-serif'>Pie charts for the proportion of
+     car accidents and deaths by alcohol.<o:p></o:p></span></li>
  <li class=MsoNormal style='color:#0D0D0D;margin-top:6.0pt;margin-bottom:6.0pt;
-     margin-left:.25in;line-height:normal;mso-list:l3 level1 lfo7;tab-stops:
+     margin-left:.25in;line-height:normal;mso-list:l14 level1 lfo15;tab-stops:
      list .5in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
-     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt'><span style='font-size:
-     12.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman"'>Scatter
-     plots to show the relationship between age and the likelihood of incidents.<o:p></o:p></span></li>
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><span
+     style='font-family:"Segoe UI",sans-serif'>Scatter plots to show the
+     relationship between age and the likelihood of incidents.<o:p></o:p></span></li>
 </ul>
 
 </div>
@@ -2226,43 +4480,294 @@ solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
 <div style='mso-element:para-border-div;border:solid #E3E3E3 1.0pt;mso-border-alt:
 solid #E3E3E3 .25pt;padding:0in 0in 0in 0in;background:white'>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:2;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:18.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>License<o:p></o:p></span></b></p>
+<h2 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;margin:2rem 0px 1rem;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-size:26.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>License<o:p></o:p></span></h2>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:
-0in 0in 0in 0in'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>This dataset is
-available for use under the MIT License.<o:p></o:p></span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:
+0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:
+0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-family:"Segoe UI",sans-serif;
+color:#0D0D0D'>This dataset is available for use under the MIT License.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:2;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:18.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>Contributions<o:p></o:p></span></b></p>
+<h2 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;margin:2rem 0px 1rem;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-size:26.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>Contributions<o:p></o:p></span></h2>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:
-0in 0in 0in 0in'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>Contributions are
-welcome! If you have any improvements or additional analyses to add, feel free
-to open a pull request.<o:p></o:p></span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:
+0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:
+0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-family:"Segoe UI",sans-serif;
+color:#0D0D0D'>Contributions are welcome! If you have any improvements or
+additional analyses to add, feel free to open a pull request.<o:p></o:p></span></p>
 
-<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-line-height:normal;mso-outline-level:2;background:white;border:none;mso-border-alt:
-solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:0in 0in 0in 0in'><b><span
-style='font-size:18.0pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#0D0D0D'>Acknowledgments<o:p></o:p></span></b></p>
+<h2 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;margin:2rem 0px 1rem;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-size:26.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>Contact<o:p></o:p></span></h2>
 
-<p class=MsoNormal style='margin-bottom:15.0pt;line-height:normal;background:
-white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:0in;mso-padding-alt:
-0in 0in 0in 0in'><span style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#0D0D0D'>We would like to thank
-all contributors and users of this dataset. Special thanks to [Data
-Source/Organization] for providing the data.<o:p></o:p></span></p>
+<p style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:
+0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:
+0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-family:"Segoe UI",sans-serif;
+color:#0D0D0D'>For any questions or comments regarding this dataset, please
+contact:<o:p></o:p></span></p>
+
+</div>
+
+<div style='mso-element:para-border-div;border:solid #E3E3E3 1.0pt;mso-border-alt:
+solid #E3E3E3 .25pt;padding:0in 0in 0in 5.0pt;background:white;margin-left:
+.25in;margin-right:0in'>
+
+<ul style='margin-top:0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+ --tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+ --tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+ --tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+ --tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+ --tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+ --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+ --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+ --tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+ --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+ --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+ --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+ --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+ --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+ --tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+ font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+ white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+ text-decoration-color: initial;word-spacing:0px' type=disc>
+ <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
+     line-height:normal;mso-list:l7 level1 lfo16;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>Name</span></strong><span style='font-family:"Segoe UI",sans-serif'>:
+     [Zhiar <span class=GramE>Ali ,Rashid</span> <span class=SpellE>Sadq</span>
+     ,<span class=SpellE>Derin</span> <span class=SpellE>Afan</span> ,Amir
+     Arsalan]<o:p></o:p></span></li>
+ <li class=MsoNormal style='color:#0D0D0D;margin-bottom:0in;margin-left:.25in;
+     line-height:normal;mso-list:l7 level1 lfo16;tab-stops:list .5in;
+     background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+     padding:0in;mso-padding-alt:0in 0in 0in 5.0pt;box-sizing: border-box;
+     --tw-border-spacing-x: 0;--tw-border-spacing-y: 0;--tw-translate-x: 0;
+     --tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;--tw-skew-y: 0;
+     --tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;
+     --tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: '><strong
+     style='box-sizing: border-box;--tw-border-spacing-x: 0;--tw-border-spacing-y: 0;
+     --tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;--tw-skew-x: 0;
+     --tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;--tw-pan-y: ;
+     --tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;--tw-gradient-from-position: ;
+     --tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;
+     --tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+     --tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+     --tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);
+     --tw-ring-offset-shadow: 0 0 transparent;--tw-ring-shadow: 0 0 transparent;
+     --tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+     --tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+     --tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+     --tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+     --tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+     --tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;
+     --tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: ;
+     color:var(--tw-prose-bold)'><span style='font-family:"Segoe UI",sans-serif;
+     border:solid #E3E3E3 1.0pt;mso-border-alt:solid #E3E3E3 .25pt;padding:
+     0in'>GitHub</span></strong><span style='font-family:"Segoe UI",sans-serif'>:
+     [<span class=SpellE>zhiarali</span>, deren78, <span class=SpellE>rashidsadq</span>,
+     <span class=SpellE>amirbagzada</span>]<o:p></o:p></span></li>
+</ul>
+
+</div>
+
+<div style='mso-element:para-border-div;border:solid #E3E3E3 1.0pt;mso-border-alt:
+solid #E3E3E3 .25pt;padding:0in 0in 0in 0in;background:white'>
+
+<h2 style='background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;
+padding:0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;margin:2rem 0px 1rem;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-size:26.0pt;
+font-family:"Segoe UI",sans-serif;color:#0D0D0D'>Acknowledgments<o:p></o:p></span></h2>
+
+<p style='margin-top:0in;margin-right:0in;margin-bottom:15.0pt;margin-left:
+0in;background:white;border:none;mso-border-alt:solid #E3E3E3 .25pt;padding:
+0in;mso-padding-alt:0in 0in 0in 0in;box-sizing: border-box;--tw-border-spacing-x: 0;
+--tw-border-spacing-y: 0;--tw-translate-x: 0;--tw-translate-y: 0;--tw-rotate: 0;
+--tw-skew-x: 0;--tw-skew-y: 0;--tw-scale-x: 1;--tw-scale-y: 1;--tw-pan-x: ;
+--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness: proximity;
+--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;
+--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;
+--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width: 0px;
+--tw-ring-offset-color: #fff;--tw-ring-color: rgba(69,89,164,.5);--tw-ring-offset-shadow: 0 0 transparent;
+--tw-ring-shadow: 0 0 transparent;--tw-shadow: 0 0 transparent;--tw-shadow-colored: 0 0 transparent;
+--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;
+--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;
+--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;
+--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;
+--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;
+--tw-contain-paint: ;--tw-contain-style: ;font-variant-ligatures: normal;
+font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
+white-space:pre-wrap;text-decoration-thickness: initial;text-decoration-style: initial;
+text-decoration-color: initial;word-spacing:0px'><span style='font-family:"Segoe UI",sans-serif;
+color:#0D0D0D'>We would like to thank all contributors and users of this
+dataset. Special thanks to [Data Source/Organization] for providing the data.<o:p></o:p></span></p>
 
 </div>
 
