@@ -25,3 +25,8 @@ The dataset includes the following columns:
 | 50  | Male   | Doctorate       | No            | No                |
 | 28  | Female | High School     | Yes           | No                |
 ...
+import pandas as pd
+
+# Load the dataset
+data = pd.read_csv('car_accidents_alcohol_deaths.csv')
+
