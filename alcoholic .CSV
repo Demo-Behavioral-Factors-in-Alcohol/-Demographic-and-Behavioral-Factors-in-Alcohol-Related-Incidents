@@ -1,0 +1,508 @@
+Age,Gender,Education Level,Car Accidents,Deaths by Alcohol
+25,Male,High School,Yes,No
+42,Female,Bachelor's,No,Yes
+35,Male,Master's,Yes,Yes
+50,Male,Doctorate,No,No
+28,Female,High School,Yes,No
+37,Male,High School,Yes,Yes
+29,Female,Bachelor's,No,No
+48,Female,Master's,Yes,Yes
+33,Male,Doctorate,Yes,Yes
+45,Male,High School,No,No
+26,Female,Master's,Yes,Yes
+41,Male,High School,No,No
+31,Female,Master's,Yes,Yes
+47,Male,Bachelor's,Yes,Yes
+30,Male,Doctorate,No,No
+39,Female,Bachelor's,Yes,Yes
+34,Female,Doctorate,Yes,Yes
+46,Male,Bachelor's,Yes,Yes
+27,Female,High School,No,No
+44,Male,Bachelor's,Yes,Yes
+38,Female,High School,No,No
+49,Male,Bachelor's,Yes,Yes
+32,Female,Master's,Yes,Yes
+43,Male,Doctorate,Yes,Yes
+36,Female,Doctorate,Yes,Yes
+24,Male,Bachelor's,Yes,No
+40,Female,High School,No,No
+23,Male,Master's,Yes,No
+38,Male,Bachelor's,Yes,Yes
+22,Female,High School,Yes,Yes
+26,Male,High School,No,No
+31,Male,Bachelor's,Yes,Yes
+35,Female,Master's,Yes,No
+27,Male,Doctorate,No,Yes
+49,Female,Bachelor's,Yes,No
+33,Male,High School,Yes,Yes
+42,Female,Master's,No,No
+29,Male,Doctorate,Yes,Yes
+46,Female,Bachelor's,Yes,Yes
+40,Male,High School,No,No
+25,Female,Master's,Yes,No
+38,Male,High School,Yes,Yes
+44,Female,Bachelor's,No,No
+23,Male,Doctorate,Yes,No
+47,Female,High School,Yes,Yes
+32,Male,Bachelor's,Yes,Yes
+36,Female,Master's,Yes,Yes
+41,Male,Doctorate,Yes,Yes
+28,Female,Bachelor's,No,No
+45,Male,High School,Yes,Yes
+22,Male,Master's,No,No
+39,Female,Doctorate,Yes,Yes
+26,Male,Bachelor's,Yes,Yes
+37,Female,High School,Yes,No
+50,Male,Master's,No,Yes
+25,Male,High School,Yes,No
+42,Female,Bachelor's,No,Yes
+35,Male,Master's,Yes,Yes
+50,Male,Doctorate,No,No
+28,Female,High School,Yes,No
+37,Male,High School,Yes,Yes
+29,Female,Bachelor's,No,No
+48,Female,Master's,Yes,Yes
+33,Male,Doctorate,Yes,Yes
+45,Male,High School,No,No
+26,Female,Master's,Yes,Yes
+41,Male,High School,No,No
+31,Female,Master's,Yes,Yes
+47,Male,Bachelor's,Yes,Yes
+30,Male,Doctorate,No,No
+39,Female,Bachelor's,Yes,Yes
+34,Female,Doctorate,Yes,Yes
+46,Male,Bachelor's,Yes,Yes
+27,Female,High School,No,No
+44,Male,Bachelor's,Yes,Yes
+38,Female,High School,No,No
+49,Male,Bachelor's,Yes,Yes
+32,Female,Master's,Yes,Yes
+43,Male,Doctorate,Yes,Yes
+36,Female,Doctorate,Yes,Yes
+24,Male,Bachelor's,Yes,No
+40,Female,High School,No,No
+23,Male,Master's,Yes,No
+38,Male,Bachelor's,Yes,Yes
+22,Female,High School,Yes,Yes
+26,Male,High School,No,No
+31,Male,Bachelor's,Yes,Yes
+35,Female,Master's,Yes,No
+27,Male,Doctorate,No,Yes
+49,Female,Bachelor's,Yes,No
+33,Male,High School,Yes,Yes
+42,Female,Master's,No,No
+29,Male,Doctorate,Yes,Yes
+46,Female,Bachelor's,Yes,Yes
+40,Male,High School,No,No
+25,Female,Master's,Yes,No
+38,Male,High School,Yes,Yes
+44,Female,Bachelor's,No,No
+23,Male,Doctorate,Yes,No
+47,Female,High School,Yes,Yes
+32,Male,Bachelor's,Yes,Yes
+36,Female,Master's,Yes,Yes
+41,Male,Doctorate,Yes,Yes
+28,Female,Bachelor's,No,No
+45,Male,High School,Yes,Yes
+22,Male,Master's,No,No
+39,Female,Doctorate,Yes,Yes
+26,Male,Bachelor's,Yes,Yes
+37,Female,High School,Yes,No
+50,Male,Master's,No,Yes
+25,Female,Master's,Yes,No
+42,Female,Bachelor's,No,Yes
+35,Male,Master's,Yes,Yes
+50,Male,Doctorate,No,No
+28,Female,High School,Yes,No
+37,Male,High School,Yes,Yes
+29,Female,Bachelor's,No,No
+48,Female,Master's,Yes,Yes
+33,Male,Doctorate,Yes,Yes
+45,Male,High School,No,No
+26,Female,Master's,Yes,Yes
+41,Male,High School,No,No
+31,Female,Master's,Yes,Yes
+47,Male,Bachelor's,Yes,Yes
+30,Male,Doctorate,No,No
+39,Female,Bachelor's,Yes,Yes
+34,Female,Doctorate,Yes,Yes
+46,Male,Bachelor's,Yes,Yes
+27,Female,High School,No,No
+44,Male,Bachelor's,Yes,Yes
+38,Female,High School,No,No
+49,Male,Bachelor's,Yes,Yes
+32,Female,Master's,Yes,Yes
+43,Male,Doctorate,Yes,Yes
+36,Female,Doctorate,Yes,Yes
+24,Male,Bachelor's,Yes,No
+40,Female,High School,No,No
+23,Male,Master's,Yes,No
+38,Male,Bachelor's,Yes,Yes
+22,Female,High School,Yes,Yes
+26,Male,High School,No,No
+31,Male,Bachelor's,Yes,Yes
+35,Female,Master's,Yes,No
+27,Male,Doctorate,No,Yes
+49,Female,Bachelor's,Yes,No
+33,Male,High School,Yes,Yes
+42,Female,Master's,No,No
+29,Male,Doctorate,Yes,Yes
+46,Female,Bachelor's,Yes,Yes
+40,Male,High School,No,No
+25,Female,Master's,Yes,No
+38,Male,High School,Yes,Yes
+44,Female,Bachelor's,No,No
+23,Male,Doctorate,Yes,No
+47,Female,High School,Yes,Yes
+32,Male,Bachelor's,Yes,Yes
+36,Female,Master's,Yes,Yes
+41,Male,Doctorate,Yes,Yes
+28,Female,Bachelor's,No,No
+45,Male,High School,Yes,Yes
+22,Male,Master's,No,No
+39,Female,Doctorate,Yes,Yes
+26,Male,Bachelor's,Yes,Yes
+37,Female,High School,Yes,No
+50,Male,Master's,No,Yes
+25,Male,High School,Yes,No
+42,Female,Bachelor's,No,Yes
+35,Male,Master's,Yes,Yes
+50,Male,Doctorate,No,No
+28,Female,High School,Yes,No
+37,Male,High School,Yes,Yes
+29,Female,Bachelor's,No,No
+48,Female,Master's,Yes,Yes
+33,Male,Doctorate,Yes,Yes
+45,Male,High School,No,No
+26,Female,Master's,Yes,Yes
+41,Male,High School,No,No
+31,Female,Master's,Yes,Yes
+47,Male,Bachelor's,Yes,Yes
+30,Male,Doctorate,No,No
+39,Female,Bachelor's,Yes,Yes
+34,Female,Doctorate,Yes,Yes
+46,Male,Bachelor's,Yes,Yes
+27,Female,High School,No,No
+44,Male,Bachelor's,Yes,Yes
+38,Female,High School,No,No
+49,Male,Bachelor's,Yes,Yes
+32,Female,Master's,Yes,Yes
+43,Male,Doctorate,Yes,Yes
+36,Female,Doctorate,Yes,Yes
+24,Male,Bachelor's,Yes,No
+40,Female,High School,No,No
+23,Male,Master's,Yes,No
+38,Male,Bachelor's,Yes,Yes
+22,Female,High School,Yes,Yes
+26,Male,High School,No,No
+31,Male,Bachelor's,Yes,Yes
+35,Female,Master's,Yes,No
+27,Male,Doctorate,No,Yes
+49,Female,Bachelor's,Yes,No
+33,Male,High School,Yes,Yes
+42,Female,Master's,No,No
+29,Male,Doctorate,Yes,Yes
+46,Female,Bachelor's,Yes,Yes
+40,Male,High School,No,No
+25,Female,Master's,Yes,No
+38,Male,High School,Yes,Yes
+44,Female,Bachelor's,No,No
+23,Male,Doctorate,Yes,No
+47,Female,High School,Yes,Yes
+32,Male,Bachelor's,Yes,Yes
+36,Female,Master's,Yes,Yes
+41,Male,Doctorate,Yes,Yes
+28,Female,Bachelor's,No,No
+45,Male,High School,Yes,Yes
+22,Male,Master's,No,No
+39,Female,Doctorate,Yes,Yes
+26,Male,Bachelor's,Yes,Yes
+37,Female,High School,Yes,No
+50,Male,Master's,No,Yes
+25,Female,Master's,Yes,No
+42,Female,Bachelor's,No,Yes
+35,Male,Master's,Yes,Yes
+50,Male,Doctorate,No,No
+28,Female,High School,Yes,No
+37,Male,High School,Yes,Yes
+29,Female,Bachelor's,No,No
+48,Female,Master's,Yes,Yes
+33,Male,Doctorate,Yes,Yes
+45,Male,High School,No,No
+26,Female,Master's,Yes,Yes
+41,Male,High School,No,No
+31,Female,Master's,Yes,Yes
+47,Male,Bachelor's,Yes,Yes
+30,Male,Doctorate,No,No
+39,Female,Bachelor's,Yes,Yes
+34,Female,Doctorate,Yes,Yes
+46,Male,Bachelor's,Yes,Yes
+27,Female,High School,No,No
+44,Male,Bachelor's,Yes,Yes
+38,Female,High School,No,No
+49,Male,Bachelor's,Yes,Yes
+32,Female,Master's,Yes,Yes
+43,Male,Doctorate,Yes,Yes
+36,Female,Doctorate,Yes,Yes
+24,Male,Bachelor's,Yes,No
+40,Female,High School,No,No
+23,Male,Master's,Yes,No
+38,Male,Bachelor's,Yes,Yes
+22,Female,High School,Yes,Yes
+26,Male,High School,No,No
+31,Male,Bachelor's,Yes,Yes
+35,Female,Master's,Yes,No
+27,Male,Doctorate,No,Yes
+49,Female,Bachelor's,Yes,No
+33,Male,High School,Yes,Yes
+42,Female,Master's,No,No
+29,Male,Doctorate,Yes,Yes
+46,Female,Bachelor's,Yes,Yes
+40,Male,High School,No,No
+25,Female,Master's,Yes,No
+38,Male,High School,Yes,Yes
+44,Female,Bachelor's,No,No
+23,Male,Doctorate,Yes,No
+47,Female,High School,Yes,Yes
+32,Male,Bachelor's,Yes,Yes
+36,Female,Master's,Yes,Yes
+41,Male,Doctorate,Yes,Yes
+28,Female,Bachelor's,No,No
+45,Male,High School,Yes,Yes
+22,Male,Master's,No,No
+39,Female,Doctorate,Yes,Yes
+26,Male,Bachelor's,Yes,Yes
+37,Female,High School,Yes,No
+50,Male,Master's,No,Yes
+25,Male,High School,Yes,No
+42,Female,Bachelor's,No,Yes
+35,Male,Master's,Yes,Yes
+50,Male,Doctorate,No,No
+28,Female,High School,Yes,No
+37,Male,High School,Yes,Yes
+29,Female,Bachelor's,No,No
+48,Female,Master's,Yes,Yes
+33,Male,Doctorate,Yes,Yes
+45,Male,High School,No,No
+26,Female,Master's,Yes,Yes
+41,Male,High School,No,No
+31,Female,Master's,Yes,Yes
+47,Male,Bachelor's,Yes,Yes
+30,Male,Doctorate,No,No
+39,Female,Bachelor's,Yes,Yes
+34,Female,Doctorate,Yes,Yes
+46,Male,Bachelor's,Yes,Yes
+27,Female,High School,No,No
+44,Male,Bachelor's,Yes,Yes
+38,Female,High School,No,No
+49,Male,Bachelor's,Yes,Yes
+32,Female,Master's,Yes,Yes
+43,Male,Doctorate,Yes,Yes
+36,Female,Doctorate,Yes,Yes
+24,Male,Bachelor's,Yes,No
+40,Female,High School,No,No
+23,Male,Master's,Yes,No
+38,Male,Bachelor's,Yes,Yes
+22,Female,High School,Yes,Yes
+26,Male,High School,No,No
+31,Male,Bachelor's,Yes,Yes
+35,Female,Master's,Yes,No
+27,Male,Doctorate,No,Yes
+49,Female,Bachelor's,Yes,No
+33,Male,High School,Yes,Yes
+42,Female,Master's,No,No
+29,Male,Doctorate,Yes,Yes
+46,Female,Bachelor's,Yes,Yes
+40,Male,High School,No,No
+25,Female,Master's,Yes,No
+38,Male,High School,Yes,Yes
+44,Female,Bachelor's,No,No
+23,Male,Doctorate,Yes,No
+47,Female,High School,Yes,Yes
+32,Male,Bachelor's,Yes,Yes
+36,Female,Master's,Yes,Yes
+41,Male,Doctorate,Yes,Yes
+28,Female,Bachelor's,No,No
+45,Male,High School,Yes,Yes
+22,Male,Master's,No,No
+39,Female,Doctorate,Yes,Yes
+26,Male,Bachelor's,Yes,Yes
+37,Female,High School,Yes,No
+50,Male,Master's,No,Yes
+25,Female,Master's,Yes,No
+42,Female,Bachelor's,No,Yes
+35,Male,Master's,Yes,Yes
+50,Male,Doctorate,No,No
+28,Female,High School,Yes,No
+37,Male,High School,Yes,Yes
+29,Female,Bachelor's,No,No
+48,Female,Master's,Yes,Yes
+33,Male,Doctorate,Yes,Yes
+45,Male,High School,No,No
+26,Female,Master's,Yes,Yes
+41,Male,High School,No,No
+31,Female,Master's,Yes,Yes
+47,Male,Bachelor's,Yes,Yes
+30,Male,Doctorate,No,No
+39,Female,Bachelor's,Yes,Yes
+34,Female,Doctorate,Yes,Yes
+46,Male,Bachelor's,Yes,Yes
+27,Female,High School,No,No
+44,Male,Bachelor's,Yes,Yes
+38,Female,High School,No,No
+49,Male,Bachelor's,Yes,Yes
+32,Female,Master's,Yes,Yes
+43,Male,Doctorate,Yes,Yes
+36,Female,Doctorate,Yes,Yes
+24,Male,Bachelor's,Yes,No
+40,Female,High School,No,No
+23,Male,Master's,Yes,No
+38,Male,Bachelor's,Yes,Yes
+22,Female,High School,Yes,Yes
+26,Male,High School,No,No
+31,Male,Bachelor's,Yes,Yes
+35,Female,Master's,Yes,No
+27,Male,Doctorate,No,Yes
+49,Female,Bachelor's,Yes,No
+33,Male,High School,Yes,Yes
+42,Female,Master's,No,No
+29,Male,Doctorate,Yes,Yes
+46,Female,Bachelor's,Yes,Yes
+40,Male,High School,No,No
+25,Female,Master's,Yes,No
+38,Male,High School,Yes,Yes
+44,Female,Bachelor's,No,No
+23,Male,Doctorate,Yes,No
+47,Female,High School,Yes,Yes
+32,Male,Bachelor's,Yes,Yes
+36,Female,Master's,Yes,Yes
+41,Male,Doctorate,Yes,Yes
+28,Female,Bachelor's,No,No
+45,Male,High School,Yes,Yes
+22,Male,Master's,No,No
+39,Female,Doctorate,Yes,Yes
+26,Male,Bachelor's,Yes,Yes
+37,Female,High School,Yes,No
+50,Male,Master's,No,Yes
+25,Male,High School,Yes,No
+42,Female,Bachelor's,No,Yes
+35,Male,Master's,Yes,Yes
+50,Male,Doctorate,No,No
+28,Female,High School,Yes,No
+37,Male,High School,Yes,Yes
+29,Female,Bachelor's,No,No
+48,Female,Master's,Yes,Yes
+33,Male,Doctorate,Yes,Yes
+45,Male,High School,No,No
+26,Female,Master's,Yes,Yes
+41,Male,High School,No,No
+31,Female,Master's,Yes,Yes
+47,Male,Bachelor's,Yes,Yes
+30,Male,Doctorate,No,No
+39,Female,Bachelor's,Yes,Yes
+34,Female,Doctorate,Yes,Yes
+46,Male,Bachelor's,Yes,Yes
+27,Female,High School,No,No
+44,Male,Bachelor's,Yes,Yes
+38,Female,High School,No,No
+49,Male,Bachelor's,Yes,Yes
+32,Female,Master's,Yes,Yes
+43,Male,Doctorate,Yes,Yes
+36,Female,Doctorate,Yes,Yes
+24,Male,Bachelor's,Yes,No
+40,Female,High School,No,No
+23,Male,Master's,Yes,No
+38,Male,Bachelor's,Yes,Yes
+22,Female,High School,Yes,Yes
+26,Male,High School,No,No
+31,Male,Bachelor's,Yes,Yes
+35,Female,Master's,Yes,No
+27,Male,Doctorate,No,Yes
+49,Female,Bachelor's,Yes,No
+33,Male,High School,Yes,Yes
+42,Female,Master's,No,No
+29,Male,Doctorate,Yes,Yes
+46,Female,Bachelor's,Yes,Yes
+40,Male,High School,No,No
+25,Female,Master's,Yes,No
+38,Male,High School,Yes,Yes
+44,Female,Bachelor's,No,No
+23,Male,Doctorate,Yes,No
+47,Female,High School,Yes,Yes
+32,Male,Bachelor's,Yes,Yes
+36,Female,Master's,Yes,Yes
+41,Male,Doctorate,Yes,Yes
+28,Female,Bachelor's,No,No
+45,Male,High School,Yes,Yes
+22,Male,Master's,No,No
+39,Female,Doctorate,Yes,Yes
+26,Male,Bachelor's,Yes,Yes
+37,Female,High School,Yes,No
+50,Male,Master's,No,Yes
+25,Male,High School,Yes,No
+42,Female,Bachelor's,No,Yes
+35,Male,Master's,Yes,Yes
+50,Male,Doctorate,No,No
+28,Female,High School,Yes,No
+37,Male,High School,Yes,Yes
+29,Female,Bachelor's,No,No
+48,Female,Master's,Yes,Yes
+33,Male,Doctorate,Yes,Yes
+45,Male,High School,No,No
+26,Female,Master's,Yes,Yes
+41,Male,High School,No,No
+31,Female,Master's,Yes,Yes
+47,Male,Bachelor's,Yes,Yes
+30,Male,Doctorate,No,No
+39,Female,Bachelor's,Yes,Yes
+34,Female,Doctorate,Yes,Yes
+46,Male,Bachelor's,Yes,Yes
+27,Female,High School,No,No
+44,Male,Bachelor's,Yes,Yes
+38,Female,High School,No,No
+49,Male,Bachelor's,Yes,Yes
+32,Female,Master's,Yes,Yes
+43,Male,Doctorate,Yes,Yes
+36,Female,Doctorate,Yes,Yes
+24,Male,Bachelor's,Yes,No
+40,Female,High School,No,No
+23,Male,Master's,Yes,No
+38,Male,Bachelor's,Yes,Yes
+22,Female,High School,Yes,Yes
+26,Male,High School,No,No
+31,Male,Bachelor's,Yes,Yes
+35,Female,Master's,Yes,No
+27,Male,Doctorate,No,Yes
+49,Female,Bachelor's,Yes,No
+33,Male,High School,Yes,Yes
+42,Female,Master's,No,No
+29,Male,Doctorate,Yes,Yes
+46,Female,Bachelor's,Yes,Yes
+40,Male,High School,No,No
+25,Female,Master's,Yes,No
+38,Male,High School,Yes,Yes
+44,Female,Bachelor's,No,No
+23,Male,Doctorate,Yes,No
+47,Female,High School,Yes,Yes
+32,Male,Bachelor's,Yes,Yes
+36,Female,Master's,Yes,Yes
+41,Male,Doctorate,Yes,Yes
+28,Female,Bachelor's,No,No
+45,Male,High School,Yes,Yes
+22,Male,Master's,No,No
+39,Female,Doctorate,Yes,Yes
+26,Male,Bachelor's,Yes,Yes
+37,Female,High School,Yes,No
+50,Male,Master's,No,Yes
+25,Female,Master's,Yes,No
+42,Female,Bachelor's,No,Yes
+35,Male,Master's,Yes,Yes
+50,Male,Doctorate,No,No
+28,Female,High School,Yes,No
+37,Male,High School,Yes,Yes
+29,Female,Bachelor's,No,No
+48,Female,Master's,Yes,Yes
+33,Male,Doctorate,Yes,Yes
+45,Male,High School,No,No
+26,Female,Master's,Yes,Yes
+41,Male,High School,No,No
