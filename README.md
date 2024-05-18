@@ -27,6 +27,6 @@ The dataset includes the following columns:
 ...
 import pandas as pd
 
-## Load the dataset
+
 data = pd.read_csv('car_accidents_alcohol_deaths.csv')
 
