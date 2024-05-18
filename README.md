@@ -17,14 +17,14 @@ href="Car%20Accidents%20and%20Deaths%20by%20Alcohol%20Dataset_files/filelist.xml
   <o:LastAuthor>rasty kawa</o:LastAuthor>
   <o:Revision>1</o:Revision>
   <o:TotalTime>2</o:TotalTime>
-  <o:Created>2024-05-18T20:19:00Z</o:Created>
-  <o:LastSaved>2024-05-18T20:21:00Z</o:LastSaved>
-  <o:Pages>5</o:Pages>
-  <o:Words>565</o:Words>
-  <o:Characters>3225</o:Characters>
+  <o:Created>2024-05-18T20:30:00Z</o:Created>
+  <o:LastSaved>2024-05-18T20:32:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>560</o:Words>
+  <o:Characters>3197</o:Characters>
   <o:Lines>26</o:Lines>
   <o:Paragraphs>7</o:Paragraphs>
-  <o:CharactersWithSpaces>3783</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>3750</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -663,7 +663,7 @@ href="Car%20Accidents%20and%20Deaths%20by%20Alcohol%20Dataset_files/colorschemem
 	mso-font-charset:0;
 	mso-generic-font-family:roman;
 	mso-font-pitch:variable;
-	mso-font-signature:3 0 0 0 1 0;}
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
 @font-face
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;
@@ -721,6 +721,1589 @@ span.GramE
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:5064849;
+	mso-list-template-ids:1046492198;}
+@list l0:level1
+	{mso-level-start-at:4;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:20666972;
+	mso-list-template-ids:-1347003406;}
+@list l1:level1
+	{mso-level-start-at:3;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2
+	{mso-list-id:99764133;
+	mso-list-template-ids:-1608492880;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3
+	{mso-list-id:143401415;
+	mso-list-template-ids:306904662;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4
+	{mso-list-id:153452216;
+	mso-list-template-ids:1296965900;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5
+	{mso-list-id:265767804;
+	mso-list-template-ids:1429102544;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6
+	{mso-list-id:311642939;
+	mso-list-template-ids:-829358978;}
+@list l6:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l7
+	{mso-list-id:381373320;
+	mso-list-template-ids:-996775406;}
+@list l7:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8
+	{mso-list-id:391806595;
+	mso-list-template-ids:-1677028484;}
+@list l8:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l9
+	{mso-list-id:396248141;
+	mso-list-template-ids:-512295898;}
+@list l9:level1
+	{mso-level-start-at:3;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10
+	{mso-list-id:422456493;
+	mso-list-template-ids:1235907872;}
+@list l10:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l10:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l10:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l11
+	{mso-list-id:483199635;
+	mso-list-template-ids:-739313790;}
+@list l11:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l12
+	{mso-list-id:518549252;
+	mso-list-template-ids:2094144986;}
+@list l12:level1
+	{mso-level-start-at:4;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13
+	{mso-list-id:520317870;
+	mso-list-template-ids:-1963700314;}
+@list l13:level1
+	{mso-level-start-at:3;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l13:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l13:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l14
+	{mso-list-id:605817553;
+	mso-list-template-ids:890942172;}
+@list l14:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l14:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l15
+	{mso-list-id:639044750;
+	mso-list-template-ids:-943980288;}
+@list l15:level1
+	{mso-level-start-at:4;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l15:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l16
+	{mso-list-id:751901367;
+	mso-list-template-ids:872345156;}
+@list l16:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l16:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l16:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l16:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l16:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l16:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l16:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l16:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l16:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l17
+	{mso-list-id:791872806;
+	mso-list-template-ids:2073466000;}
+@list l17:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l17:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l18
+	{mso-list-id:803741519;
+	mso-list-template-ids:-2144409868;}
+@list l18:level1
+	{mso-level-start-at:5;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l18:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l18:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l18:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l18:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l18:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l18:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l18:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l18:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l19
+	{mso-list-id:893279437;
+	mso-list-template-ids:-1071871816;}
+@list l19:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l19:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l19:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l19:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l19:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l19:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l19:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l19:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l19:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l20
+	{mso-list-id:933051951;
+	mso-list-template-ids:-1732444564;}
+@list l20:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l20:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l21
+	{mso-list-id:1113283862;
+	mso-list-template-ids:-911601112;}
+@list l21:level1
+	{mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l21:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l21:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l21:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l21:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l21:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l21:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l21:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l21:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l22
+	{mso-list-id:1203713257;
+	mso-list-template-ids:606245976;}
+@list l22:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l23
+	{mso-list-id:1261455199;
+	mso-list-template-ids:1927170674;}
+@list l23:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l23:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l23:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l23:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l23:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l23:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l23:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l23:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l23:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l24
+	{mso-list-id:1488740044;
+	mso-list-template-ids:-175726692;}
+@list l24:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l24:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l24:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l24:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l24:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l24:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l24:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l24:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l24:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l25
+	{mso-list-id:1499540160;
+	mso-list-template-ids:1650329072;}
+@list l26
+	{mso-list-id:1557930287;
+	mso-list-template-ids:-1775232732;}
+@list l26:level1
+	{mso-level-start-at:3;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l26:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l27
+	{mso-list-id:1655524434;
+	mso-list-template-ids:1666601492;}
+@list l27:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l27:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l27:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l27:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l27:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l27:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l27:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l27:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l27:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l28
+	{mso-list-id:1840457969;
+	mso-list-template-ids:-1504947914;}
+@list l28:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l28:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l28:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l28:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l28:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l28:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l28:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l28:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l28:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l29
+	{mso-list-id:1898085543;
+	mso-list-template-ids:-260127440;}
+@list l29:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l29:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l29:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l29:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l29:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l29:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l29:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l29:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l29:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l30
+	{mso-list-id:1960606972;
+	mso-list-template-ids:1084884838;}
+@list l30:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l30:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l30:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l30:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l30:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l30:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l30:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l30:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l30:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l31
+	{mso-list-id:2019233834;
+	mso-list-template-ids:-1262446276;}
+@list l31:level1
+	{mso-level-start-at:4;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l31:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l32
+	{mso-list-id:2067489702;
+	mso-list-template-ids:1651570878;}
+@list l32:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l32:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l32:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l32:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l32:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l32:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l32:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l32:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l32:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l33
+	{mso-list-id:2078476116;
+	mso-list-template-ids:-1861036838;}
+@list l33:level1
+	{mso-level-start-at:2;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l33:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l33:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l33:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l33:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l33:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l33:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l33:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l33:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
 -->
 </style>
 <!--[if gte mso 10]>
@@ -761,292 +2344,675 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal>Car Accidents and Deaths by Alcohol Dataset<o:p></o:p></p>
-
-<p class=MsoNormal>Overview<o:p></o:p></p>
-
-<p class=MsoNormal>This dataset contains information about individuals involved
-in car accidents and deaths related to alcohol consumption. The data includes
-demographic details, education levels, and whether the individual was involved
-in a car accident or death by alcohol. The dataset aims to provide insights
-into the correlation between demographic factors and the incidence of
-alcohol-related car accidents and fatalities.<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Data Description<o:p></o:p></p>
-
-<p class=MsoNormal>The dataset contains the following columns:<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Age: The age of the individual.<o:p></o:p></p>
-
-<p class=MsoNormal>Gender: The gender of the individual (Male/Female).<o:p></o:p></p>
-
-<p class=MsoNormal>Education Level: The highest level of education attained by
-the individual.<o:p></o:p></p>
-
-<p class=MsoNormal>Car Accidents: A binary indicator (Yes/No) showing whether
-the individual has been involved in a car accident.<o:p></o:p></p>
-
-<p class=MsoNormal>Deaths by Alcohol: A binary indicator (Yes/No) showing
-whether the individual has died due to alcohol-related incidents.<o:p></o:p></p>
-
-<p class=MsoNormal>Column Details<o:p></o:p></p>
-
-<p class=MsoNormal>Age: Numeric value representing the age of the individual.<o:p></o:p></p>
-
-<p class=MsoNormal>Gender: Categorical value with possible entries: Male,
-Female.<o:p></o:p></p>
-
-<p class=MsoNormal>Education Level: Categorical value with possible entries:
-High School, College, Graduate.<o:p></o:p></p>
-
-<p class=MsoNormal>Car Accidents: Binary value indicating car accident
-involvement: Yes (involved), No (not involved).<o:p></o:p></p>
-
-<p class=MsoNormal>Deaths by Alcohol: Binary value indicating alcohol-related
-death: Yes (deceased), No (not deceased).<o:p></o:p></p>
-
-<p class=MsoNormal>Sample Data<o:p></o:p></p>
-
-<p class=MsoNormal>Age<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Gender<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Education Level<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Car Accidents<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Deaths by Alcohol<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>25<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Male<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>High School<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Yes<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>No<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>42<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Female<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>College<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>No<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>No<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>35<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Male<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Graduate<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Yes<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Yes<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>50<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Female<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>High School<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>No<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>No<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>28<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Male<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>College<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Yes<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>No<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Objectives<o:p></o:p></p>
-
-<p class=MsoNormal>The main objectives of analyzing this dataset are:<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Demographic Analysis:<o:p></o:p></p>
-
-<p class=MsoNormal>Determine the distribution of individuals based on age,
-gender, and education level.<o:p></o:p></p>
-
-<p class=MsoNormal>Incident Analysis:<o:p></o:p></p>
-
-<p class=MsoNormal>Calculate the number of car accidents and deaths by alcohol
-in the dataset.<o:p></o:p></p>
-
-<p class=MsoNormal>Correlation Analysis:<o:p></o:p></p>
-
-<p class=MsoNormal>Investigate the correlation between demographic factors
-(age, gender, education level) and the likelihood of being involved in car
-accidents or alcohol-related deaths.<o:p></o:p></p>
-
-<p class=MsoNormal>Risk Assessment:<o:p></o:p></p>
-
-<p class=MsoNormal>Assess the risk factors associated with car accidents and
-alcohol-related deaths.<o:p></o:p></p>
-
-<p class=MsoNormal>Policy Implications:<o:p></o:p></p>
-
-<p class=MsoNormal>Provide insights for policymakers to design targeted
-interventions to reduce car accidents and alcohol-related fatalities.<o:p></o:p></p>
-
-<p class=MsoNormal>Analytical Approach<o:p></o:p></p>
-
-<p class=MsoNormal>1. Data Cleaning<o:p></o:p></p>
-
-<p class=MsoNormal>Before performing any analysis, ensure the data is clean:<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Check for and handle missing values.<o:p></o:p></p>
-
-<p class=MsoNormal>Ensure data types are appropriate for each column.<o:p></o:p></p>
-
-<p class=MsoNormal>Standardize categorical values (e.g., ensure gender values
-are consistently labeled).<o:p></o:p></p>
-
-<p class=MsoNormal>2. Descriptive Statistics<o:p></o:p></p>
-
-<p class=MsoNormal>Calculate basic statistics to understand the distribution of
-data:<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Mean, median, mode, and standard deviation for the Age
-column.<o:p></o:p></p>
-
-<p class=MsoNormal>Frequency counts for Gender and Education Level columns.<o:p></o:p></p>
-
-<p class=MsoNormal>Count of Car Accidents and Deaths by Alcohol.<o:p></o:p></p>
-
-<p class=MsoNormal>3. Correlation Analysis<o:p></o:p></p>
-
-<p class=MsoNormal>Use statistical methods to analyze correlations:<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Chi-square tests for categorical data.<o:p></o:p></p>
-
-<p class=MsoNormal>Pearson correlation coefficient for numerical data.<o:p></o:p></p>
-
-<p class=MsoNormal>4. Visualization<o:p></o:p></p>
-
-<p class=MsoNormal>Visualize the data to uncover patterns and trends:<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Bar charts for gender and education level distributions.<o:p></o:p></p>
-
-<p class=MsoNormal>Pie charts for the proportion of car accidents and deaths by
-alcohol.<o:p></o:p></p>
-
-<p class=MsoNormal>Scatter plots to show the relationship between age and the
-likelihood of incidents.<o:p></o:p></p>
-
-<p class=MsoNormal>License<o:p></o:p></p>
-
-<p class=MsoNormal>This dataset is available for use under the MIT License.<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Contributions<o:p></o:p></p>
-
-<p class=MsoNormal>Contributions are welcome! If you have any improvements or
-additional analyses to add, feel free to open a pull request.<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Contact<o:p></o:p></p>
-
-<p class=MsoNormal>For any questions or comments regarding this dataset, please
-contact:<o:p></o:p></p>
-
-<p class=MsoNormal><o:p>&nbsp;</o:p></p>
-
-<p class=MsoNormal>Name: [<span class=SpellE>Zhiar</span> <span class=GramE>Ali
-,Rashid</span> <span class=SpellE>Sadq</span> ,<span class=SpellE>Derin</span> <span
-class=SpellE>Afan</span> ,Amir Arsalan]<o:p></o:p></p>
-
-<p class=MsoNormal>GitHub: [<span class=SpellE>zhiarali</span>, deren78, <span
-class=SpellE>rashidsadq</span>, <span class=SpellE>amirbagzada</span>]<o:p></o:p></p>
-
-<p class=MsoNormal>Acknowledgments<o:p></o:p></p>
-
-<p class=MsoNormal>We would like to thank all contributors and users of this
-dataset. Special thanks to [Data Source/Organization] for providing the data.</p>
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>Car Accidents and Deaths by Alcohol
+Dataset<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>Overview<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>This dataset contains information about
+individuals involved in car accidents and deaths related to alcohol
+consumption. The data includes demographic details, education levels, and
+whether the individual was involved in a car accident or death by alcohol. The
+dataset aims to provide insights into the correlation between demographic
+factors and the incidence of alcohol-related car accidents and fatalities.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>Data Description<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>The dataset contains the following columns:<o:p></o:p></span></p>
+
+<ul style='margin-top:0in' type=disc>
+ <li class=MsoNormal style='mso-list:l2 level1 lfo18;tab-stops:list .5in'><b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Age</span></b><span style='font-size:16.0pt;
+     line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;
+     mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:minor-bidi'>: The age
+     of the individual.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l2 level1 lfo18;tab-stops:list .5in'><b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Gender</span></b><span style='font-size:
+     16.0pt;line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:
+     minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:minor-bidi'>:
+     The gender of the individual (Male/Female).<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l2 level1 lfo18;tab-stops:list .5in'><b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Education Level</span></b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>: The highest level of education attained
+     by the individual.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l2 level1 lfo18;tab-stops:list .5in'><b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Car Accidents</span></b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>: A binary indicator (Yes/No) showing
+     whether the individual has been involved in a car accident.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l2 level1 lfo18;tab-stops:list .5in'><b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Deaths by Alcohol</span></b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>: A binary indicator (Yes/No) showing
+     whether the individual has died due to alcohol-related incidents.<o:p></o:p></span></li>
+</ul>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>Column Details<o:p></o:p></span></b></p>
+
+<ul style='margin-top:0in' type=disc>
+ <li class=MsoNormal style='mso-list:l27 level1 lfo19;tab-stops:list .5in'><b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Age</span></b><span style='font-size:16.0pt;
+     line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;
+     mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:minor-bidi'>: Numeric
+     value representing the age of the individual.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l27 level1 lfo19;tab-stops:list .5in'><b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Gender</span></b><span style='font-size:
+     16.0pt;line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:
+     minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:minor-bidi'>:
+     Categorical value with possible entries: Male, Female.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l27 level1 lfo19;tab-stops:list .5in'><b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Education Level</span></b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>: Categorical value with possible entries:
+     High School, College, Graduate.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l27 level1 lfo19;tab-stops:list .5in'><b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Car Accidents</span></b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>: Binary value indicating car accident
+     involvement: Yes (involved), No (not involved).<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l27 level1 lfo19;tab-stops:list .5in'><b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Deaths by Alcohol</span></b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>: Binary value indicating alcohol-related
+     death: Yes (deceased), No (not deceased).<o:p></o:p></span></li>
+</ul>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>Sample Data<o:p></o:p></span></b></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=712
+ style='width:534.0pt;background:#0A0E12;border-collapse:collapse;border:none;
+ mso-border-alt:outset #545B5E .75pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0in 0in 0in 0in'>
+ <thead>
+  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+   <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+   <p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+   font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+   minor-bidi;mso-bidi-theme-font:minor-bidi'>Age</span></b><span
+   style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+   mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+   minor-bidi'><o:p></o:p></span></p>
+   </td>
+   <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+   <p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+   font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+   minor-bidi;mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Gender</span></b><span
+   style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+   mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+   minor-bidi'><o:p></o:p></span></p>
+   </td>
+   <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+   <p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+   font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+   minor-bidi;mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Education
+   Level</span></b><span style='font-size:16.0pt;line-height:107%;font-family:
+   "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+   minor-bidi;mso-bidi-theme-font:minor-bidi'><o:p></o:p></span></p>
+   </td>
+   <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+   <p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+   font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+   minor-bidi;mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Car
+   Accidents</span></b><span style='font-size:16.0pt;line-height:107%;
+   font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+   minor-bidi;mso-bidi-theme-font:minor-bidi'><o:p></o:p></span></p>
+   </td>
+   <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+   <p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+   font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+   minor-bidi;mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Deaths
+   by Alcohol</span></b><span style='font-size:16.0pt;line-height:107%;
+   font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+   minor-bidi;mso-bidi-theme-font:minor-bidi'><o:p></o:p></span></p>
+   </td>
+  </tr>
+ </thead>
+ <tr style='mso-yfti-irow:1'>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>25</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Male</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>High
+  School</span><span style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Yes</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>No</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>42</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Female</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>College</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>No</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>No</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>35</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Male</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Graduate</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Yes</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Yes</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>50</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Female</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>High
+  School</span><span style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>No</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>No</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>28</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Male</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>College</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Yes</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+  <td valign=bottom style='padding:4.5pt 9.75pt 4.5pt 9.75pt'>
+  <p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+  "Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+  mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>No</span><span
+  style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+  mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+  minor-bidi'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi;color:white;mso-color-alt:windowtext'>Objectives</span></b><b><span
+style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+minor-bidi'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>The main objectives of analyzing this dataset
+are:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l25 level1 lfo20;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:16.0pt;
+line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;
+mso-fareast-font-family:Arial;mso-fareast-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'><span style='mso-list:Ignore'>1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+dir=LTR></span><b><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>Demographic Analysis</span></b><span
+style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+minor-bidi'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:1.0in;text-indent:-.25in;mso-list:l11 level2 lfo21;
+tab-stops:list 1.0in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:16.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>�<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+16.0pt;line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:
+minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:minor-bidi'>Determine
+the distribution of individuals based on age, gender, and education level.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l22 level1 lfo22;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:16.0pt;
+line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;
+mso-fareast-font-family:Arial;mso-fareast-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'><span style='mso-list:Ignore'>2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+dir=LTR></span><b><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>Incident Analysis</span></b><span
+style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+minor-bidi'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:1.0in;text-indent:-.25in;mso-list:l6 level2 lfo23;
+tab-stops:list 1.0in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:16.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>�<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+16.0pt;line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:
+minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:minor-bidi'>Calculate
+the number of car accidents and deaths by alcohol in the dataset.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l9 level1 lfo24;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:16.0pt;
+line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;
+mso-fareast-font-family:Arial;mso-fareast-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'><span style='mso-list:Ignore'>3.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+dir=LTR></span><b><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>Correlation Analysis</span></b><span
+style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+minor-bidi'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:1.0in;text-indent:-.25in;mso-list:l26 level2 lfo25;
+tab-stops:list 1.0in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:16.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>�<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+16.0pt;line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:
+minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:minor-bidi'>Investigate
+the correlation between demographic factors (age, gender, education level) and
+the likelihood of being involved in car accidents or alcohol-related deaths.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l12 level1 lfo26;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:16.0pt;
+line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;
+mso-fareast-font-family:Arial;mso-fareast-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'><span style='mso-list:Ignore'>4.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+dir=LTR></span><b><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>Risk Assessment</span></b><span
+style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+minor-bidi'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:1.0in;text-indent:-.25in;mso-list:l31 level2 lfo27;
+tab-stops:list 1.0in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:16.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>�<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+16.0pt;line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:
+minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:minor-bidi'>Assess
+the risk factors associated with car accidents and alcohol-related deaths.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:.5in;text-indent:-.25in;mso-list:l7 level1 lfo28;
+tab-stops:list .5in'><![if !supportLists]><span style='font-size:16.0pt;
+line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;
+mso-fareast-font-family:Arial;mso-fareast-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'><span style='mso-list:Ignore'>5.<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><span
+dir=LTR></span><b><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>Policy Implications</span></b><span
+style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:
+minor-bidi'>:<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:1.0in;text-indent:-.25in;mso-list:l17 level2 lfo29;
+tab-stops:list 1.0in'><![if !supportLists]><span style='font-size:10.0pt;
+mso-bidi-font-size:16.0pt;line-height:107%;font-family:Symbol;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>�<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span dir=LTR></span><span style='font-size:
+16.0pt;line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:
+minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:minor-bidi'>Provide
+insights for policymakers to design targeted interventions to reduce car
+accidents and alcohol-related fatalities.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>Analytical Approach<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>1. Data Cleaning<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>Before performing any analysis, ensure the data
+is clean:<o:p></o:p></span></p>
+
+<ul style='margin-top:0in' type=disc>
+ <li class=MsoNormal style='mso-list:l19 level1 lfo30;tab-stops:list .5in'><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Check for and handle missing values.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l19 level1 lfo30;tab-stops:list .5in'><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Ensure data types are appropriate for each
+     column.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l19 level1 lfo30;tab-stops:list .5in'><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Standardize categorical values (e.g.,
+     ensure gender values are consistently labeled).<o:p></o:p></span></li>
+</ul>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>2. Descriptive Statistics<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>Calculate basic statistics to understand the
+distribution of data:<o:p></o:p></span></p>
+
+<ul style='margin-top:0in' type=disc>
+ <li class=MsoNormal style='mso-list:l29 level1 lfo31;tab-stops:list .5in'><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Mean, median, mode, and standard deviation
+     for the&nbsp;<b>Age</b>&nbsp;column.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l29 level1 lfo31;tab-stops:list .5in'><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Frequency counts for&nbsp;<b>Gender</b>&nbsp;and&nbsp;<b>Education
+     Level</b>&nbsp;columns.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l29 level1 lfo31;tab-stops:list .5in'><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Count of&nbsp;<b>Car Accidents</b>&nbsp;and&nbsp;<b>Deaths
+     by Alcohol</b>.<o:p></o:p></span></li>
+</ul>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>3. Correlation Analysis<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>Use statistical methods to analyze
+correlations:<o:p></o:p></span></p>
+
+<ul style='margin-top:0in' type=disc>
+ <li class=MsoNormal style='mso-list:l4 level1 lfo32;tab-stops:list .5in'><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Chi-square tests for categorical data.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l4 level1 lfo32;tab-stops:list .5in'><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Pearson correlation coefficient for
+     numerical data.<o:p></o:p></span></li>
+</ul>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>4. Visualization<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>Visualize the data to uncover patterns and trends:<o:p></o:p></span></p>
+
+<ul style='margin-top:0in' type=disc>
+ <li class=MsoNormal style='mso-list:l28 level1 lfo33;tab-stops:list .5in'><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Bar charts for gender and education level
+     distributions.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l28 level1 lfo33;tab-stops:list .5in'><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Pie charts for the proportion of car
+     accidents and deaths by alcohol.<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l28 level1 lfo33;tab-stops:list .5in'><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Scatter plots to show the relationship
+     between age and the likelihood of incidents.<o:p></o:p></span></li>
+</ul>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>License<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>This dataset is available for use under the MIT
+License.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>Contributions<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>Contributions are welcome! If you have any
+improvements or additional analyses to add, feel free to open a pull request.<o:p></o:p></span></p>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>Contact<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>For any questions or comments regarding this
+dataset, please contact:<o:p></o:p></span></p>
+
+<ul style='margin-top:0in' type=disc>
+ <li class=MsoNormal style='mso-list:l14 level1 lfo34;tab-stops:list .5in'><b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>Name</span></b><span style='font-size:
+     16.0pt;line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:
+     minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:minor-bidi'>:
+     [<span class=SpellE>Zhiar</span>&nbsp;<span class=GramE>Ali ,Rashid</span>&nbsp;<span
+     class=SpellE>Sadq</span>&nbsp;,<span class=SpellE>Derin</span>&nbsp;<span
+     class=SpellE>Afan</span>&nbsp;,Amir Arsalan]<o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-list:l14 level1 lfo34;tab-stops:list .5in'><b><span
+     style='font-size:16.0pt;line-height:107%;font-family:"Arial",sans-serif;
+     mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+     mso-bidi-theme-font:minor-bidi'>GitHub</span></b><span style='font-size:
+     16.0pt;line-height:107%;font-family:"Arial",sans-serif;mso-ascii-theme-font:
+     minor-bidi;mso-hansi-theme-font:minor-bidi;mso-bidi-theme-font:minor-bidi'>:
+     [<span class=SpellE>zhiarali</span>, deren78,&nbsp;<span class=SpellE>rashidsadq</span>,&nbsp;<span
+     class=SpellE>amirbagzada</span>]<o:p></o:p></span></li>
+</ul>
+
+<p class=MsoNormal><b><span style='font-size:16.0pt;line-height:107%;
+font-family:"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:
+minor-bidi;mso-bidi-theme-font:minor-bidi'>Acknowledgments<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'>We would like to thank all contributors and users
+of this dataset. Special thanks to [Data Source/Organization] for providing the
+data.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:16.0pt;line-height:107%;font-family:
+"Arial",sans-serif;mso-ascii-theme-font:minor-bidi;mso-hansi-theme-font:minor-bidi;
+mso-bidi-theme-font:minor-bidi'><o:p>&nbsp;</o:p></span></p>
 
 </div>
 
