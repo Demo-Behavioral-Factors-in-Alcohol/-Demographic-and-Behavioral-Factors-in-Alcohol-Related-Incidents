@@ -1901,17 +1901,6 @@ car accidents and fatalities.<o:p></o:p></p>
       the risk factors associated with car accidents and alcohol-related
       deaths.<o:p></o:p></li>
  </ul>
- <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
-     line-height:normal;mso-list:l14 level1 lfo14;tab-stops:list .5in'><strong><span
-     style='font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
-     mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:
-     minor-bidi'>Policy Implications</span></strong>:<o:p></o:p></li>
- <ul type=circle>
-  <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:
-      auto;line-height:normal;mso-list:l14 level2 lfo14;tab-stops:list 1.0in'>Provide
-      insights for policymakers to design targeted interventions to reduce car
-      accidents and alcohol-related fatalities.<o:p></o:p></li>
- </ul>
 </ol>
 
 <h2>Analytical Approach<o:p></o:p></h2>
